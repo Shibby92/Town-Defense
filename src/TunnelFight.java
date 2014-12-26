@@ -1,6 +1,6 @@
 public class TunnelFight {
 
-	private static final int NUMBER = 8;
+	private static final int NUMBER = 11;
 
 	public static void main(String[] args) {
 		Orc[] orcs = new Orc[NUMBER];
